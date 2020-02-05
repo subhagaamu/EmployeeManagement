@@ -1,0 +1,46 @@
+{
+  "Employee": [
+    {
+      "id": "2",
+      "FirstName": "Sanjupriya",
+      "LastName": "Manikyala",
+      "Age": "24",
+      "Email": "sanjupriya@gmail.com",
+      "DepartmentID": "12"
+    },
+    {
+      "id": "3",
+      "FirstName": "Manohar",
+      "LastName": "Jooripala",
+      "Age": "25",
+      "Email": "manohar@gmail.com",
+      "DepartmentID": "12"
+    },
+    {
+      "id": "10",
+      "FirstName": "Subhaga",
+      "LastName": "Anilkumar",
+      "Age": "24",
+      "Email": "subhaga@bjsn.com",
+      "DepartmentID": "50"
+    },
+    {
+      "id": "100",
+      "FirstName": "Bhavya",
+      "LastName": "Naidu",
+      "Age": "24",
+      "Email": "bhavya@ghskj.com",
+      "DepartmentID": "11"
+    }
+  ],
+  "Department": [
+    {
+      "id": "4",
+      "Name": "Finance"
+    },
+    {
+      "id": "100",
+      "Name": "Travel"
+    }
+  ]
+}
